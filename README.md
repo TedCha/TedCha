@@ -1,6 +1,6 @@
 # Hi, I'm Ted 👋
 
-I am a current senior and driven university student studying Business Analytics & Information Systems at the University of South Florida. My career interests lie in Software Engineering, Machine Learning, Quality Assurance, Back-End Web Development, and Data Engineering.
+I am a current senior and driven university student studying Business Analytics & Information Systems at the University of South Florida. My career interests lie in Software Engineering, Machine Learning, Quality Assurance Engineering, Back-End Web Development, and Data Engineering.
 
 <!--
 **tcharts-boop/tcharts-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
